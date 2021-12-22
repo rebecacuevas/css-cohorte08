@@ -1,0 +1,57 @@
+/*HTML - CSS-03 - Copiar estilos/<span>*/
+/*20/12/21*/
+
+body {
+  background-color: lightsteelblue;
+}
+
+h1 {
+  font-family: "Comic Sans", cursive;
+  text-align: right;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: xx-large;
+  font-family: monospace;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-indent: 40px;
+  text-align: justify;
+  line-height: 1.8;
+}
+
+b {
+  color: firebrick;
+}
+
+i {
+  color: green;
+  background-color: white;
+}
+
+div {
+  text-align: center;
+}
+
+.comic {
+  color: red;
+}
+
+.orange {
+  color: #fb8500;
+}
+
+.footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.laranja {
+  color: #fb8500;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+}

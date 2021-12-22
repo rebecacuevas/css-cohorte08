@@ -1,0 +1,31 @@
+/*CSS-01 - Getting to know each other*/
+/*20/12/21*/
+
+h1 {
+  /*CSS comments*/
+  /*cm, in HUGE | px, em, rem and % NICE*/
+  font-size: 72px;
+  color: teal;
+  background-color: #edf2f4;
+  text-align: center;
+}
+body {
+  background-color: #edf2f4;
+}
+p {
+  color: #274c77;
+  background-color: lightcyan;
+}
+h3 {
+  color: #2a9d8f;
+  text-transform: uppercase;
+}
+
+.texto {
+  color: maroon;
+}
+
+#text {
+  color: white;
+  font-style: italic;
+}

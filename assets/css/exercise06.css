@@ -1,0 +1,86 @@
+/*CSS-05 - Box challenge*/
+/*21/12/21*/
+
+body {
+  background-color: seagreen;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 3px black;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+  padding: 3px;
+  align-content: center;
+}
+
+.white {
+  width: 720px;
+  height: 40px;
+  background-color: white;
+  border: 7px solid black;
+  border-radius: 25px;
+  margin-left: 25%;
+  padding: 15px;
+}
+
+.red {
+  color: white;
+  width: 750px;
+  height: 40px;
+  background-color: #ac5a39;
+  border: 17px solid #802400;
+  border-radius: 15px 0px 0px 15px;
+  padding: 5px;
+}
+
+.orange {
+  width: 700px;
+  height: 30px;
+  color: white;
+  background-color: #ac7a39;
+  border: 10px solid #804800;
+  margin-left: 50%;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.blue {
+  color: white;
+  background-color: #004680;
+  border: 3.5px dashed #3978ac;
+  padding: 15px;
+  margin-left: 25%;
+}
+
+#first {
+  width: 780px;
+  height: 22px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  align-content: center;
+}
+
+#second {
+  width: 730px;
+  height: 40px;
+  padding: 12px;
+}
+
+#uno {
+  width: 740px;
+  height: 60px;
+}
+
+#dos {
+  width: 740px;
+  height: 20px;
+}
+
+#thin {
+  height: 18px;
+  padding: 7px;
+}

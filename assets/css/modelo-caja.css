@@ -1,0 +1,44 @@
+/*CSS-05*/
+/*21/12/21*/
+body {
+  background-image: url(https://images.pexels.com/photos/1415734/pexels-photo-1415734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*/ .title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subtitle {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+  font-size: 30px;
+  margin-bottom: 20px;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.red {
+  border: 5px solid red;
+  /* background-color: red; */
+}
+
+.green {
+  border: 5px solid green;
+
+  /* background-color: green; */
+}
+
+.blue {
+  border: 5px solid blue;
+
+  /* background-color: blue; */
+}
